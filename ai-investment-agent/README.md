@@ -168,6 +168,6 @@ _(Note: these outputs vary slightly each run since LLM responses aren't determin
 
 
 DEPLOYED ON VERCEL
-visit - ai-investment-agent-sage.vercel.app
+visit - [ai-investment-agent-sage.vercel.app](https://ai-investment-agent-sage.vercel.app/)
 
 
